@@ -7,7 +7,7 @@ A serverless API rate limiter built on AWS using a **token bucket algorithm** ba
 ## Architecture
 
 <!-- Add your architecture diagram image here -->
-![Architecture Diagram](./docs/architecture.png)
+![Architecture Diagram](E:\System_design_projects\api-rate-limiter/Architecture.png)
 
 ---
 
