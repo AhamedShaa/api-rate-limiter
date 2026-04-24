@@ -2,7 +2,7 @@ import http from 'k6/http';
 import { check, sleep } from 'k6';
 
 // Replace with your actual endpoint
-const API_URL = 'https://9k842t72e7.execute-api.us-east-1.amazonaws.com/';
+const API_URL = 'https://your-api-id.execute-api.region.amazonaws.com/';
 
 export const options = {
   scenarios: {
